@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Si vous utilisez ce travail dans une publication, veuillez le citer ainsi :"
+message: "If you use this work in a publication, please cite it as:"
 title: "RATISS V10 AEON PRIME: A Physical Complexity Audit Framework for the P vs NP Problem"
 authors:
   - family-names: Evina
@@ -25,7 +25,7 @@ keywords:
   - Complexity Theory
 doi: 10.17605/OSF.IO/6JZMB
 license: MIT
-repository-code: https://github.com/Johnking0/RATISS-V10-Physical-Complexity-Audit
+repository-code: https://github.com/evinajonathan13-max/RATISS-V10-Physical-Complexity-Audit
 url: https://osf.io/6JZMB/
 type: software
 version: 10.0
