@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail dans une publication, veuillez le citer ainsi :"
+title: "RATISS V10 AEON PRIME: A Physical Complexity Audit Framework for the P vs NP Problem"
+authors:
+  - family-names: Evina
+    given-names: Jonathan
+    orcid: https://orcid.org/0009-0000-4092-5313
+    affiliation: Independent Researcher
+  - family-names: "Johnking0"
+    given-names: ""
+    affiliation: Independent Researcher
+abstract: |
+  The RATISS V10 AEON PRIME ecosystem maps computational complexity to fundamental physical
+  bounds (Margolus-Levitin, Landauer, Zurek decoherence, Bekenstein bound, Special Relativity)
+  and proposes three physically grounded challenges (UPCF, CEOE, RPS) as replacements for
+  the classical P vs NP formulation of the Clay Mathematics Institute.
+keywords:
+  - P vs NP
+  - Physical Complexity
+  - Margolus-Levitin Theorem
+  - Landauer Principle
+  - Quantum Decoherence
+  - Bekenstein Bound
+  - Computational Physics
+  - Complexity Theory
+doi: 10.17605/OSF.IO/6JZMB
+license: MIT
+repository-code: https://github.com/Johnking0/RATISS-V10-Physical-Complexity-Audit
+url: https://osf.io/6JZMB/
+type: software
+version: 10.0
